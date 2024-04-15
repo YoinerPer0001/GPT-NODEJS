@@ -1,0 +1,23 @@
+{
+  "name": "gptnodejs",
+  "version": "1.0.0",
+  "description": "Ejemplo basico de implementacion de GPT con node js para dar una retroalimentacion, en este caso de una evaluacion realizada por un usuario",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YoinerPer0001/GPT-NODEJS.git"
+  },
+  "keywords": [
+    "GPT",
+    "NODEJS"
+  ],
+  "author": "Yoiner Pertuz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YoinerPer0001/GPT-NODEJS/issues"
+  },
+  "homepage": "https://github.com/YoinerPer0001/GPT-NODEJS#readme"
+}
